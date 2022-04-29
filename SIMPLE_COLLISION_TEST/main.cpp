@@ -55,7 +55,7 @@ int main()
         //collison_with_rec
         if(collison_with_rec)
         {
-            DrawText("GAME OVER", 400, 200, 20, WHITE);
+            DrawText("GAME OVER", width/2, 200, 40, WHITE);
             
         }
         else
