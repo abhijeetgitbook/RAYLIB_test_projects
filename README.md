@@ -6,4 +6,5 @@
 
 # (2)SPRITE SHEET ANIMATION
 
+![](https://github.com/abhijeetgitbook/RAYLIB_test_projects/blob/main/readme_assets/earth.png?raw=true)
 ![](https://github.com/abhijeetgitbook/RAYLIB_test_projects/blob/main/readme_assets/Texture2D_earth.gif?raw=true)
